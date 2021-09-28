@@ -11,21 +11,20 @@ body {
 
 .navbar {
 
-    background-color: #8CA1A5;
+    background-color: #a6bcc0;
     position: fixed;
     width: 100%;
 }
 
 .heading {
     
-    color: white;
     height: 100vh;
     text-align: center;
     padding-top: 40vh;
-    background-image: url('../src/img/heading.jpg');
+    background-image: url('../src/img/heading-alt.jpg');
     background-size: cover;
-    background-position: top;
-    background-attachment: fixed;
+    background-position: center;
+    
 }
 
 .heading h1 {
@@ -33,5 +32,11 @@ body {
     font-weight: 400;
     letter-spacing: 0.25rem;
 }
+
+.heading p {
+    margin-left: 400px;
+    font-size: 1.5rem;
+}
+
 
 
