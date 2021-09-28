@@ -1,6 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    height: 500vh;
+}
 
 .heading {
+    
     height: 100vh;
     text-align: center;
     padding-top: 40vh;
+    background-image: url('../src/img/heading.jpg');
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
 }
+
+.heading h1 {
+
+    font-weight: 400;
+    letter-spacing: 0.25rem;
+    color: black;
+}
+
+
