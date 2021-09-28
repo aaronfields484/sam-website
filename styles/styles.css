@@ -1,11 +1,24 @@
 * {
+
     padding: 0;
     margin: 0;
+}
+
+body {
+
     height: 500vh;
+}
+
+.navbar {
+
+    background-color: #8CA1A5;
+    position: fixed;
+    width: 100%;
 }
 
 .heading {
     
+    color: white;
     height: 100vh;
     text-align: center;
     padding-top: 40vh;
@@ -19,7 +32,6 @@
 
     font-weight: 400;
     letter-spacing: 0.25rem;
-    color: black;
 }
 
 
