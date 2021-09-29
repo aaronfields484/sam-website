@@ -49,10 +49,34 @@
 .travel-img {
 
     background-image: url('../src/img/travel.jpg');
+}
+
+.movies-img {
+
+    background-image: url('../src/img/travel.jpg');
+}
+
+.parallax-img {
+
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    height: 100vh;
+    height: 75vh;
+}
+
+.parallax-content {
+
+    height: 25vh;
+    background-color: black;
+    color: #fff;
+    padding: 1% 5%;
+}
+
+.parallax-content hr {
+
+    border-color: white;
+    margin: 2px 0;
+    width: 60px;
 }
 
 
