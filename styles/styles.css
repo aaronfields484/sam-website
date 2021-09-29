@@ -4,39 +4,55 @@
     margin: 0;
 }
 
-body {
-
-    height: 500vh;
-}
-
 .navbar {
 
-    background-color: #a6bcc0;
+    background-color: black;
     position: fixed;
     width: 100%;
+    color: #fff;
 }
 
 .heading {
     
-    height: 100vh;
+    color: white;
     text-align: center;
     padding-top: 40vh;
-    background-image: url('../src/img/heading-alt.jpg');
-    background-size: cover;
+    height: 100vh;
+    background-image: url(../src/img/heading.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
+    margin-bottom: 0;
     
 }
 
 .heading h1 {
 
+    margin-left: 50%;
     font-weight: 400;
     letter-spacing: 0.25rem;
 }
 
 .heading p {
-    margin-left: 400px;
+    margin-left: 35%;
     font-size: 1.5rem;
 }
 
+.about-me {
+    
+    height: 25vh;
+    background-color: black;
+    color: #fff;
+}
+
+.travel-img {
+
+    background-image: url('../src/img/travel.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+}
 
 
