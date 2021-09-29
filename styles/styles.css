@@ -6,7 +6,7 @@
 
 .navbar {
 
-    background-color: black;
+    background-color: rgb(0,0,0, 0.85);
     position: fixed;
     width: 100%;
     color: #fff;
@@ -53,7 +53,12 @@
 
 .movies-img {
 
-    background-image: url('../src/img/travel.jpg');
+    background-image: url('../src/img/movie.jpg');
+}
+
+.music-img {
+
+    background-image: url('../src/img/music.jpg');
 }
 
 .parallax-img {
