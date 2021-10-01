@@ -103,7 +103,7 @@ footer {
   }
 
 @media only screen and (max-width: 1248px) {
-    
+
     .heading h1 {
        margin: 0;
     }
@@ -114,5 +114,17 @@ footer {
 
   @media only screen and (max-width: 990px) {
     
-    .
+    .heading {
+        background-attachment: unset;
+        height: 75vh;
+    }
+    .parallax-img {
+        background-attachment: unset;
+        height: 50vh;
+    }
+    .parallax-content {
+        
+        height: 30vh;
+    }
+
   }
