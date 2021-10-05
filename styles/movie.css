@@ -1,0 +1,45 @@
+body {
+
+    overflow-x: unset;
+}
+
+.movie-section {
+
+    color: white;
+    padding: 170px 15vw;
+}
+
+.movie-section li {
+    
+    list-style: none;
+    text-align: center;
+    margin: auto 20px;
+}
+
+.movie-section img {
+
+    height: 225px;
+    width: 225px;
+}
+
+ .movie-section ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.movie-section h3 {
+
+    margin: 20px auto;
+}
+
+.movie-section h6 {
+
+    margin: 10px auto 20px auto;
+}
+
+.movie-section h1 {
+
+    margin: 50px auto;
+}
