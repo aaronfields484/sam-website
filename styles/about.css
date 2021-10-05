@@ -1,0 +1,33 @@
+ 
+ .about-section {
+
+    color: black;
+    padding: 150px 15vw;
+ }
+
+
+ .about-section div {
+     
+    margin-bottom: 20px;
+ }
+
+
+ .title {
+
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 3% 5%;
+    margin: 5px auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+ .about-section p {
+
+    background-color: white;
+    padding: 3% 5%;
+    margin: 5px auto;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+ }
+
