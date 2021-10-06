@@ -20,12 +20,13 @@
     margin: 5px auto;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    text-align: center;
 }
 
  .about-section p {
 
     background-color: white;
-    padding: 3% 5%;
+    padding: 3% 4%;
     margin: 5px auto;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
